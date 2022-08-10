@@ -9,7 +9,7 @@ BUTTON_WIDTH = 80
 BUTTON_HEIGHT = 30
 N_ROWS = 2
 N_COLS = 10
-CMAP = "Spectral"
+CMAP = "plasma"
 
 # Autoencoder parameters
 LEARNING_RATE = 1e-3
