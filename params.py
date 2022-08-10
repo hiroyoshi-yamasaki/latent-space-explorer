@@ -26,4 +26,4 @@ CHANNELS_2 = 5
 HIDDEN_1 = 12
 HIDDEN_2 = 20
 
-MODEL_PATH = ""  # Path to saved model
+MODEL_PATH = "weights/autoencoder.py"  # Path to saved model
