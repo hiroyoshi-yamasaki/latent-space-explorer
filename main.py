@@ -11,7 +11,7 @@ def main():
 
     # TODO: only temporary solution
     model = AutoEncoder()
-    model.load("autoencoder.pt")
+    model.load("weights/autoencoder.pt")
     main_window.model = model
 
     main_window.show()
